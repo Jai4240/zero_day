@@ -1,1 +1,2 @@
-The uname command is used for basic system info. When the ‘uname’ command is run without any option then it prints just the kernel name. 
+Linux
+,The uname command is used for basic system info. When the ‘uname’ command is run without any option then it prints just the kernel name. 
